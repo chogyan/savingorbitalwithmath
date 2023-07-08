@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+#result {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 50px;
+  font-weight: bold;
+}
